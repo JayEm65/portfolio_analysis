@@ -6,8 +6,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation Instructions](#installation-instructions)
 - [Project Tasks](#project-tasks)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
@@ -27,3 +25,12 @@ This project is centered on analyzing financial data, with the goal of evaluatin
 - **Plotly** (interactive visualizations)
 - **scikit-learn** (machine learning for predictions and optimizations)
 - **yfinance** (fetching financial data from Yahoo Finance)
+
+## Project Tasks
+**Data Cleaning & Preprocessing:** Import financial datasets and clean the data for analysis.
+
+**Exploratory Data Analysis (EDA):** Analyze asset prices, returns, and correlations.
+
+**Portfolio Optimization:** Apply methods to optimize a portfolio, considering risk and returns.
+
+**Visualization:** Generate plots and interactive charts to represent financial trends and portfolio performance.
